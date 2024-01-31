@@ -1,0 +1,22 @@
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 431px;
+  height: 26px;
+  top: 63px;
+  left: 508px;
+}
+
+.subConatiner {
+    width: 46px;
+  height: 26px;
+  top: 63px;
+  left: 508px;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: center;
+}

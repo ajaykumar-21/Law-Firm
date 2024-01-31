@@ -1,0 +1,9 @@
+.button {
+  width: 172px;
+  height: 47px;
+  top: 53px;
+  left: 1116px;
+  background-color: var(--color-black);
+  color: var(--color-white);
+  border: 1px solid var(--color-white);
+}
