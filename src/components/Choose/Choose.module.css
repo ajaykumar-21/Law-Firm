@@ -1,0 +1,111 @@
+.container {
+  margin-top: 130px;
+}
+
+.heading {
+  font-family: Inter;
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 77px;
+  letter-spacing: 0em;
+  margin-bottom: 80px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.card {
+  width: 340px;
+  height: 340px;
+  background-color: #1d1d1c;
+  text-align: left;
+  border-radius: 15px;
+  border: 1px solid #3f3f3d;
+  padding: 10px 50px 0px 25px;
+  p {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-top: 10px;
+  }
+  h2 {
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    margin-bottom: 10px;
+  }
+
+  button {
+    width: 121px;
+    height: 43px;
+    border-radius: 23.5px;
+    border: none;
+    font-family: Inter;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    background-color: #e3b748;
+    text-align: center;
+    cursor: pointer;
+  }
+}
+
+.incog {
+  width: 70px;
+  height: 70px;
+  margin-bottom: 40px;
+}
+
+.middleCard {
+  width: 340px;
+  height: 340px;
+  background-color: #353533;
+  text-align: left;
+  border-radius: 15px;
+  border: 1px solid #3f3f3d;
+  padding: 10px 50px 0px 25px;
+  p {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-top: 10px;
+  }
+  h2 {
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    margin-bottom: 10px;
+  }
+
+  button {
+    width: 121px;
+    height: 43px;
+    border-radius: 23.5px;
+    border: none;
+    font-family: Inter;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    background-color: #e3b748;
+    text-align: center;
+    cursor: pointer;
+  }
+}

@@ -5,10 +5,12 @@ import Button from "../Button/Button";
 import CenterDetails from "../CenterDetails/CenterDetails";
 
 function NavBar() {
-  return <div className={styles.nav}>
-    <Logo />
-    <CenterDetails />
-    <Button />
-  </div>;
+  return (
+    <nav className={styles.nav}>
+      <Logo />
+      <CenterDetails />
+      <Button />
+    </nav>
+  );
 }
 export default NavBar;
